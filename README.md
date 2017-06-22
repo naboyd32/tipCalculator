@@ -1,0 +1,2 @@
+# tipCalculator
+Short Term Project
